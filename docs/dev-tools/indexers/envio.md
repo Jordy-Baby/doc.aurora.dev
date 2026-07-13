@@ -3,7 +3,13 @@ title: Envio
 ---
 The fastest, most flexible way to get real-time and historical onchain data on Aurora.
 
-[Envio](https://envio.dev/?utm_source=aurora&utm_medium=partner-docs) is the data layer for blockchain apps. It gives developers a complete toolkit to index, access, and deploy on Aurora data, from a single GraphQL API to raw high-speed data access. Aurora is [fully supported](https://docs.envio.dev/docs/HyperIndex/aurora?utm_source=aurora&utm_medium=partner-docs) across [HyperIndex](https://docs.envio.dev/docs/HyperIndex/overview?utm_source=aurora&utm_medium=partner-docs), [HyperSync](https://docs.envio.dev/docs/HyperSync/overview?utm_source=aurora&utm_medium=partner-docs), [HyperRPC](https://docs.envio.dev/docs/HyperRPC/overview-hyperrpc?utm_source=aurora&utm_medium=partner-docs), and [Envio Cloud](https://docs.envio.dev/docs/HyperIndex/hosted-service?utm_source=aurora&utm_medium=partner-docs).
+[Envio](https://envio.dev/?utm_source=aurora&utm_medium=partner-docs) is the data layer for blockchain apps.
+It gives developers a complete toolkit to index, access, and deploy on Aurora data, from a single GraphQL API to raw high-speed data access.
+Aurora is [fully supported](https://docs.envio.dev/docs/HyperIndex/aurora?utm_source=aurora&utm_medium=partner-docs) across
+[HyperIndex](https://docs.envio.dev/docs/HyperIndex/overview?utm_source=aurora&utm_medium=partner-docs),
+[HyperSync](https://docs.envio.dev/docs/HyperSync/overview?utm_source=aurora&utm_medium=partner-docs),
+[HyperRPC](https://docs.envio.dev/docs/HyperRPC/overview-hyperrpc?utm_source=aurora&utm_medium=partner-docs),
+and [Envio Cloud](https://docs.envio.dev/docs/HyperIndex/hosted-service?utm_source=aurora&utm_medium=partner-docs).
 
 ## Why Envio?
 
